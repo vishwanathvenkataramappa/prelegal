@@ -1,0 +1,76 @@
+{
+  "templates": [
+    {
+      "id": "mutual-nda",
+      "name": "Mutual Non-Disclosure Agreement",
+      "description": "A standard mutual NDA establishing confidentiality protections between two parties sharing information for a specified purpose. Covers confidential information definition, permitted disclosures, obligations, term, and remedies.",
+      "filename": "templates/Mutual-NDA.md"
+    },
+    {
+      "id": "mutual-nda-coverpage",
+      "name": "Mutual NDA Cover Page",
+      "description": "The cover page for the Common Paper Mutual NDA. Captures party details, key terms (purpose, term, confidentiality period, governing law), and signature blocks. Modifications here take precedence over the Standard Terms.",
+      "filename": "templates/Mutual-NDA-coverpage.md"
+    },
+    {
+      "id": "csa",
+      "name": "Cloud Service Agreement",
+      "description": "A comprehensive agreement governing access to and use of a cloud-based service. Covers service access, restrictions, privacy, payment, term and termination, warranties, liability, indemnification, and confidentiality.",
+      "filename": "templates/CSA.md"
+    },
+    {
+      "id": "sla",
+      "name": "Service Level Agreement",
+      "description": "An SLA supplement to a Cloud Service Agreement defining uptime and response time targets, how they are calculated, service credits available if targets are missed, and the process for requesting credits.",
+      "filename": "templates/SLA.md"
+    },
+    {
+      "id": "dpa",
+      "name": "Data Processing Agreement",
+      "description": "A GDPR-compliant data processing agreement governing how a provider processes personal data on behalf of a customer. Covers processor/subprocessor roles, processing instructions, restricted transfers, security incidents, audit rights, and deletion obligations.",
+      "filename": "templates/DPA.md"
+    },
+    {
+      "id": "design-partner-agreement",
+      "name": "Design Partner Agreement",
+      "description": "An agreement for early-access design partner programs where a partner receives early product access in exchange for providing feedback. Covers product access, feedback obligations, IP ownership (Provider owns all Feedback), confidentiality, and term.",
+      "filename": "templates/design-partner-agreement.md"
+    },
+    {
+      "id": "psa",
+      "name": "Professional Services Agreement",
+      "description": "A framework agreement governing professional services engagements under individual Statements of Work. Covers service delivery, IP ownership of deliverables, payment, warranties (including conformance to SOW), liability, indemnification, and confidentiality.",
+      "filename": "templates/PSA.md"
+    },
+    {
+      "id": "partnership-agreement",
+      "name": "Partnership Agreement",
+      "description": "A standard partnership agreement for business collaborations. Covers party obligations, payment, a mutual trademark license, privacy obligations, an escalation procedure, term and termination, liability, indemnification, and confidentiality.",
+      "filename": "templates/Partnership-Agreement.md"
+    },
+    {
+      "id": "baa",
+      "name": "Business Associate Agreement",
+      "description": "A HIPAA-compliant BAA governing a provider's use and disclosure of Protected Health Information (PHI) on behalf of a covered entity. Covers PHI obligations, subcontractors, breach notification, data rights, and term.",
+      "filename": "templates/BAA.md"
+    },
+    {
+      "id": "software-license-agreement",
+      "name": "Software License Agreement",
+      "description": "An agreement governing the on-premise or self-hosted installation and use of software. Covers the software license, restrictions, open source components, updates, payment, warranties (including conformance to documentation), liability, and indemnification.",
+      "filename": "templates/Software-License-Agreement.md"
+    },
+    {
+      "id": "pilot-agreement",
+      "name": "Pilot Agreement",
+      "description": "A short-term agreement allowing a prospective customer to evaluate a product during a pilot period before entering into a long-term agreement. Covers pilot access, restrictions, confidentiality, and liability. Product provided as-is with no warranties.",
+      "filename": "templates/Pilot-Agreement.md"
+    },
+    {
+      "id": "ai-addendum",
+      "name": "AI Addendum",
+      "description": "A supplemental agreement governing the use of AI-powered features or services. Covers input and output rights, restrictions on regulated decision-making, training data consent, IP ownership of inputs and outputs, and AI limitations and disclaimers.",
+      "filename": "templates/AI-Addendum.md"
+    }
+  ]
+}
